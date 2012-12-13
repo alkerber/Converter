@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+    <string name="app_name">MUSA</string>
+    <string name="edit_message">Selecione um arquivo</string>
+    <string name="button_send">Abrir</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MUSA- Conversor MXML</string>
+    <string name="button_play">Play</string>
+    <string name="button_pause">Pause</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_file_browser">FileBrowser</string>
+    <string name="button_stop">Stop</string>
+</resources>
